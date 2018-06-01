@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>ch.uzh.ifi.seal.ase.cin</groupId>
+  <artifactId>evaluation</artifactId>
+  <versioning>
+    <versions>
+      <version>0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20180601135416</lastUpdated>
+  </versioning>
+</metadata>
